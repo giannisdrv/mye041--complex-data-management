@@ -26,4 +26,4 @@ This section focuses on methods for indexing and retrieving transaction-based da
     * **rel:** A specific relevance formula provided in the assignment.
 
 ## Author
-* **Ioannis Drivas** (Student ID: 5216)
+* **Ioannis Drivas**
